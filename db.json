@@ -1,0 +1,31 @@
+{
+  "flowers": [
+    {
+      "id": 1,
+      "price": 15.99,
+      "instructions": "Large double. Good grower, heavy bloomer. Early to mid-season, acid loving plants. Plant in moist well drained soil with pH of 4.0-5.5.",
+      "photo": "https://i.pinimg.com/736x/1e/40/3b/1e403b18138cc12fe550094c7b9166aa--flowers-for-garden-flowering-trees.jpg",
+      "name": "Azalea"
+    },
+    {
+      "id": 2,
+      "price": 5.99,
+      "instructions": "Quick-growing, herbaceous, shrub reaching up to 30 inches in height, forming a rounded, dense bush.",
+      "photo": "https://www.gardeningknowhow.com/wp-content/uploads/2021/02/flor-da-plectranthus-neochilus-no-campo-1.jpg",
+      "name": "Plectranthus"
+    },
+    {   "productid": 3,
+        "price": 22.99,
+      "instructions": "Deep purple colored flowers bushy rounded growth habit to 3 feet tall. Plant in full sun. Water regularly.",
+      "photo": "https://i.pinimg.com/originals/e0/4d/19/e04d197e2f12604a962aa433d5849db4.jpg",
+      "name": "Rosa Burgundy"
+      
+    },{  "id": 4,
+        "price": 45.99,
+        "instructions": "They do not thrive indoors, where the light is too dim, and humidity too low, for them to grow properly.",
+        "photo": "https://gardenerspath.com/wp-content/uploads/2021/09/Introduction-to-Bonsai-Cover.jpg",
+        "name": "Bonsai Tree"
+        
+    }
+  ]
+}

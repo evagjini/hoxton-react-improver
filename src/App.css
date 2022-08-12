@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.flower-container {
+  display: grid;
+  place-items: center;
+}
+.flower {
+  place-items: center;
+  list-style: none;
+}
