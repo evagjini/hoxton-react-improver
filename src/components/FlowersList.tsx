@@ -16,6 +16,7 @@ type Props = {
 export function FlowersList({ flowers }: Props) {
     return (
         <main>
+            <h1 className="title"> Welcome to Eva's Garden!</h1>
             <div className='flower-container'>
                 <ul>
                     {flowers.map((flower) => (

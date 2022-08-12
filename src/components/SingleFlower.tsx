@@ -20,7 +20,7 @@ export function SingleFlower({ flower }: Props) {
             />
             < div className='instructions'>
                 <p>{flower.instructions}</p>
-                <span>{flower.price}</span>
+                <span>£{flower.price}</span>
 
             </div>
         </li>
